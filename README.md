@@ -1,0 +1,1 @@
+This project presents an interactive Power BI dashboard developed to analyze and track the online sales performance of Madhav Ecommerce. The dashboard provides deep insights into customer behavior, product performance, and regional trends to support strategic business decisions.
